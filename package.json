@@ -1,0 +1,21 @@
+{
+  "name": "taskflow-backend",
+  "version": "1.0.0",
+  "description": "TASKFLOW - Görev ve Proje Yönetim Sistemi REST API",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "rest-api",
+    "taskflow",
+    "crud"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
